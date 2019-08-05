@@ -1,0 +1,24 @@
+{
+  "ip": "10.188.0.210",
+  "api_version": 800,
+  "ssl_certificate": "/root/Walkman/certs/10.188.0.210.crt",
+  "credentials": {
+    "userName": "v210usradmin",
+    "authLoginDomain": "",
+    "password": "HP!nvent123",
+    "sessionID": ""
+  },
+  "enclosure_hostname": "",
+  "enclosure_username": "",
+  "enclosure_password": "",
+  "enclosure_group_uri": "",
+  "server_hostname": "",
+  "server_username": "",
+  "server_password": "",
+  "storage_system_hostname": "",
+  "storage_system_username": "",
+  "storage_system_password": "",
+  "power_device_hostname": "",
+  "power_device_username": "",
+  "power_device_password": ""
+}
